@@ -11,7 +11,7 @@
     }
   },
   "ConnectionStrings": {
-    "Connection_SqlServer": "Server=localhost;Database=HCVision;User Id=sa;Password=xxx;"
+    "Connection_SqlServer": "Server=localhost;Database=DababaseName;User Id=sa;Password=xxx;"
   }
 }
 ```
